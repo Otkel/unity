@@ -1,0 +1,24 @@
+.unity-logo{
+    height: auto;
+}
+.header-logo>a>img{
+    max-width: 80px;
+    max-height: 80px;
+}
+#home-slider .item{
+    background-size: contain;
+}
+.league-head-text{
+    font-size: 30px;
+    font-weight:700;
+    font-family: 'Roboto',sans-serif;
+}
+.team-logos img{
+    max-height: 65px;
+    width: auto;
+}
+.team-logos {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
