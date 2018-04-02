@@ -1,5 +1,8 @@
 @extends('main')
 @section('content')
+    <hr>
+    <hr>
+    <hr>
     <div class="container">
         <div class="name-division">
             <h3>"NAME" Дивизионы</h3>
@@ -29,14 +32,14 @@
         <div class="main">
             <div id="row" class="row" >
                 <div id="team1" class="col-sm-4 col-12">
-                    <img src="{{asset('img/team1.png')}}">
+                    <img src="{{asset('img/img/team1.png')}}">
                     <h5>Barselona</h5>
                 </div>
                 <div id="score" class="col-sm-2  col-12">
                     <h3>2:2</h3>
                 </div>
                 <div id="team1" class="col-sm-4  col-12">
-                    <img src="img/team2.png">
+                    <img src="{{asset('img/img/team2.png')}}">
                     <h5>FC Kairat</h5>
                 </div>
             </div>
@@ -47,14 +50,14 @@
         <div class="main">
             <div id="row" class="row" >
                 <div id="team2" class="col-sm-4 col-12">
-                    <img src="img/team4.png">
+                    <img src="{{asset('img/img/team3.png')}}">
                     <h5>FC Lorem ipsum</h5>
                 </div>
                 <div id="score2" class="col-sm-2  col-12">
                     <h3>3:1</h3>
                 </div>
                 <div id="team2" class="col-sm-4  col-12">
-                    <img src="img/team3.png">
+                    <img src="{{asset('img/img/team1.png')}}">
                     <h5>FC Milan</h5>
                 </div>
             </div>
@@ -65,14 +68,14 @@
         <div class="main">
             <div id="row" class="row" >
                 <div id="team1" class="col-sm-4 col-12">
-                    <img src="img/team1.png">
+                    <img src="{{asset('img/img/team1.png')}}">
                     <h5>Barselona</h5>
                 </div>
                 <div id="score" class="col-sm-2  col-12">
                     <h3>2:2</h3>
                 </div>
                 <div id="team1" class="col-sm-4  col-12">
-                    <img src="img/team2.png">
+                    <img src="{{asset('img/img/team1.png')}}">
                     <h5>FC Kairat</h5>
                 </div>
             </div>
@@ -83,14 +86,14 @@
         <div class="main">
             <div id="row" class="row" >
                 <div id="team2" class="col-sm-4 col-12">
-                    <img src="img/team4.png">
+                    <img src="{{asset('img/img/team1.png')}}">
                     <h5>FC Lorem ipsum</h5>
                 </div>
                 <div id="score2" class="col-sm-2  col-12">
                     <h3>3:1</h3>
                 </div>
                 <div id="team2" class="col-sm-4  col-12">
-                    <img src="img/team3.png">
+                    <img src="{{asset('img/img/team1.png')}}">
                     <h5>FC Milan</h5>
                 </div>
             </div>
@@ -101,14 +104,14 @@
         <div class="main">
             <div id="row" class="row" >
                 <div id="team1" class="col-sm-4 col-12">
-                    <img src="img/team1.png">
+                    <img src="{{asset('img/img/team1.png')}}">
                     <h5>Barselona</h5>
                 </div>
                 <div id="score" class="col-sm-2  col-12">
                     <h3>2:2</h3>
                 </div>
                 <div id="team1" class="col-sm-4  col-12">
-                    <img src="img/team2.png">
+                    <img src="{{asset('img/img/team1.png')}}">
                     <h5>FC Kairat</h5>
                 </div>
             </div>
@@ -119,14 +122,14 @@
         <div class="main">
             <div id="row" class="row" >
                 <div id="team2" class="col-sm-4 col-12">
-                    <img src="img/team4.png">
+                    <img src="{{asset('img/img/team1.png')}}">
                     <h5>FC Lorem ipsum</h5>
                 </div>
                 <div id="score2" class="col-sm-2  col-12">
                     <h3>3:1</h3>
                 </div>
                 <div id="team2" class="col-sm-4  col-12">
-                    <img src="img/team3.png">
+                    <img src="{{asset('img/img/team1.png')}}">
                     <h5>FC Milan</h5>
                 </div>
             </div>
@@ -137,14 +140,14 @@
         <div class="main">
             <div id="row" class="row" >
                 <div id="team1" class="col-sm-4 col-12">
-                    <img src="img/team1.png">
+                    <img src="{{asset('img/img/team1.png')}}">
                     <h5>Barselona</h5>
                 </div>
                 <div id="score" class="col-sm-2  col-12">
                     <h3>2:2</h3>
                 </div>
                 <div id="team1" class="col-sm-4  col-12">
-                    <img src="img/team2.png">
+                    <img src="{{asset('img/img/team1.png')}}">
                     <h5>FC Kairat</h5>
                 </div>
             </div>

@@ -4294,6 +4294,102 @@ select {
     right: 0;
   }
 }
+
+
+/* MAIN */
+.name-division{
+  text-align: center;
+  font-size: 38px;
+  margin-bottom: 50px;
+}
+.dropdown {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+#dropik button{
+  width:  203px;
+  height: 38px;
+  margin-bottom: 5px;
+  border-radius: 0;
+  background-color: #006185;
+  color: white;
+
+}
+.results{
+
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+#row{
+  display: flex; justify-content: center;
+}
+
+#team1{
+  width: 250px;
+  background-color:#f8f9f8;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+#team1 img{
+  float: left;
+  padding-right: 10px;}
+
+#score{
+  text-align: center;
+  background-color: #006185;
+  color: white;
+
+}
+#score h3{
+  margin-bottom: 15px;
+}
+
+#team2{
+  background-color: white;
+}
+#score2{
+  text-align: center;
+  background-color: #1d7ea1;
+  color: white;
+
+}
+
+
+
+
+
+#team2{
+  width: 250px;
+  background-color:white;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+#team2 img{
+  float: left;
+  padding-right: 10px;}
+
+#score2{
+  text-align: center;
+  background-color: #1d7ea1;
+  color: white;
+
+}
+#score2 h3{
+  margin-bottom: 15px;
+}
+
+
 /* FOOTER */
 #footer {
   position: relative;
