@@ -14,6 +14,9 @@
 Route::get('/', function () {
     return view('main-page');
 });
+Route::get('/results', function () {
+    return view('results');
+});
 
 Auth::routes();
 
