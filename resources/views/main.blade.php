@@ -8,7 +8,7 @@
     <title>Unity Football League</title>
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="{{asset("css/stylıng.css")}}">
+    <link rel="stylesheet" href="{{asset("css/styling.css")}}">
     <link rel="stylesheet" href="{{asset("css/style.css")}}">
     <link rel="stylesheet" href="{{asset("css/owl.carousel.css")}}">
     <link rel="stylesheet" href="{{asset("css/main.css")}}">
