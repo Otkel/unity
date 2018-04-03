@@ -3,6 +3,9 @@
     <hr>
     <hr>
     <hr>
+    <hr>
+    <hr>
+    <hr>
     <div class="container">
         <div class="name-division">
             <h3>"NAME" Дивизионы</h3>
