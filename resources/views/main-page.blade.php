@@ -249,14 +249,14 @@
                         <div class="main">
                             <div id="row" class="row" >
                                 <div id="team1" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team1.png">
+                                    <img src="img/img/team1.png">
                                     <h5>Barselona</h5>
                                 </div>
                                 <div id="score" class="col-sm-2 col-2">
                                     <h3>2:2</h3>
                                 </div>
                                 <div id="team1" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team2.png">
+                                    <img src="img/img/team2.png">
                                     <h5>FC Kairat</h5>
                                 </div>
                             </div>
@@ -267,14 +267,14 @@
                         <div class="main">
                             <div id="row" class="row" >
                                 <div id="team2" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team4.png">
+                                    <img src="img/img/team4.png">
                                     <h5>FC Lorem ipsum</h5>
                                 </div>
                                 <div id="score2" class="col-sm-2 col-2">
                                     <h3>3:1</h3>
                                 </div>
                                 <div id="team2" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team3.png">
+                                    <img src="img/img/team3.png">
                                     <h5>FC Milan</h5>
                                 </div>
                             </div>
@@ -285,14 +285,14 @@
                         <div class="main">
                             <div id="row" class="row" >
                                 <div id="team1" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team1.png">
+                                    <img src="img/img/team1.png">
                                     <h5>Barselona</h5>
                                 </div>
                                 <div id="score" class="col-sm-2 col-2">
                                     <h3>2:2</h3>
                                 </div>
                                 <div id="team1" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team2.png">
+                                    <img src="img/img/team2.png">
                                     <h5>FC Kairat</h5>
                                 </div>
                             </div>
@@ -303,14 +303,14 @@
                         <div class="main">
                             <div id="row" class="row" >
                                 <div id="team2" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team4.png">
+                                    <img src="img/img/team4.png">
                                     <h5>FC Lorem ipsum</h5>
                                 </div>
                                 <div id="score2" class="col-sm-2 col-2">
                                     <h3>3:1</h3>
                                 </div>
                                 <div id="team2" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team3.png">
+                                    <img src="img/img/team3.png">
                                     <h5>FC Milan</h5>
                                 </div>
                             </div>
@@ -321,14 +321,14 @@
                         <div class="main">
                             <div id="row" class="row" >
                                 <div id="team1" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team1.png">
+                                    <img src="img/img/team1.png">
                                     <h5>Barselona</h5>
                                 </div>
                                 <div id="score" class="col-sm-2 col-2">
                                     <h3>2:2</h3>
                                 </div>
                                 <div id="team1" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team2.png">
+                                    <img src="img/img/team2.png">
                                     <h5>FC Kairat</h5>
                                 </div>
                             </div>
@@ -339,14 +339,14 @@
                         <div class="main">
                             <div id="row" class="row" >
                                 <div id="team2" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team4.png">
+                                    <img src="img/img/team4.png">
                                     <h5>FC Lorem ipsum</h5>
                                 </div>
                                 <div id="score2" class="col-sm-2 col-2">
                                     <h3>3:1</h3>
                                 </div>
                                 <div id="team2" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team3.png">
+                                    <img src="img/img/team3.png">
                                     <h5>FC Milan</h5>
                                 </div>
                             </div>
@@ -357,14 +357,14 @@
                         <div class="main">
                             <div id="row" class="row" >
                                 <div id="team1" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team1.png">
+                                    <img src="img/img/team1.png">
                                     <h5>Bar</h5>
                                 </div>
                                 <div id="score" class="col-sm-2 col-2">
                                     <h3>2:2</h3>
                                 </div>
                                 <div id="team1" class="col-sm-4 col-xs-1 col-4">
-                                    <img src="img/team2.png">
+                                    <img src="img/img/team2.png">
                                     <h5>FC Kairat</h5>
                                 </div>
                             </div>
