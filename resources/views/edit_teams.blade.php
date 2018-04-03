@@ -1,0 +1,15 @@
+@extends('layout.layout')
+@section('content')
+    <div class="d-flex justify-content-center">
+        <div class="col-md-5">
+            @foreach($teams as $team)
+                <div class="border-dark">
+                    <p class="text-dark">{{$team->name}}</p>
+                    <a href="{{route("processEditTeams",$team->id)}}">
+                        <button class="btn-success">Edit</button>
+                    </a>
+                </div>
+            @endforeach
+        </div>
+    </div>
+@endsection
