@@ -1,0 +1,35 @@
+
+/* MAIN2 */
+.newgame  {
+    text-align: center; margin-top: 130px;
+}
+
+
+#games{
+    margin-top: 40px; display: flex; justify-content: space-between;
+}
+
+#summercup{
+    color: #1d7ea1;
+}
+#tables{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+tr,td  {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.nomer{
+    width: 30px;
+}
+.gamer{
+    width: 250px;
+    color: blue;
+}
+.gamer h6{
+    float: left;margin-left: 5px;
+}
+.position{
+    width: 50px;
+}
