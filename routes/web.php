@@ -34,7 +34,9 @@ Route::get("/player","AdminController@addPlayer");
 Route::get("/game","AdminController@addGame");
 Route::get("/transfer","AdminController@makeTransfer");
 Route::get("/promotion","AdminController@makePromotion");
-
+Route::get("/show-game",function (){
+    return view("layouts.game");
+});
 Route::get("/editDivisions","AdminController@editDivs");
 Route::get("/editCups","AdminController@editCups");
 Route::get("/editTours","AdminController@editTours");
