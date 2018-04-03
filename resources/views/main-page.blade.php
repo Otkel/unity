@@ -9,7 +9,7 @@
         <div id="home-slider" class="fixed-nav owl-carousel owl-theme">
             <div class="item">
 
-                <img src="{{asset("img/Image.png")}}" alt="">
+                <img src="{{asset("img/Image.png")}}" alt="" class="back">
 
                 <div class="slide-content col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 text-center">
                     <h1>КӨКТЕМГІ МАУСЫМ 2018</h1>
@@ -20,9 +20,7 @@
                 </div>
             </div>
             <div class="item">
-
-                <img src="{{asset("img/Image.png")}}" alt="">
-
+                    <img src="{{asset("img/Image.png")}}" alt="">
                 <div class="slide-content col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 text-center">
                     <h1>КӨКТЕМГІ МАУСЫМ 2018</h1>
                     <p>
