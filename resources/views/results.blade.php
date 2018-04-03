@@ -1,7 +1,7 @@
 @extends('main')
 @section('content')
 
-    <div class="container">
+    <div style="margin-top: 120px;" class="container">
         <div class="name-division">
             <h3>"NAME" Дивизионы</h3>
         </div>
