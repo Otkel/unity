@@ -1,8 +1,8 @@
 @extends('main')
 @section('content')
 
-    <div style="margin-top: 120px;" class="container">
-        <div class="name-division">
+    <div  class="container">
+        <div style="margin-top: 120px;" class="name-division">
             <h3>"NAME" Дивизионы</h3>
         </div>
         <div id="drops" class="row">
