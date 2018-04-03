@@ -12,7 +12,7 @@
                 <img src="http://unity.bekzhan.kz/img/Image.png" alt="">
 
                 <div class="slide-content col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 text-center">
-                    <h1>КӨКТЕМГІ МАУСЫМ 2018</h1>
+                    <h1>КӨКТЕМГІ МАУСЫМ 2018 </h1>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     </p>
