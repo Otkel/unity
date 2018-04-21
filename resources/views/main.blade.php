@@ -188,7 +188,7 @@
 
             <!-- Start Sposnors -->
             <div class="sponsors clearfix">
-                <h5 class="text-center">Sponsors</h5>
+                <h5 class="text-center">ДЕМЕУШІЛЕР</h5>
                 <div class="sponsor-logo text-center col-lg-2 col-md-2 col-sm-4">
                     <img src="{{asset("img/partner.png")}}" alt="">
                 </div>
@@ -214,7 +214,7 @@
 
         <!-- Start Copyrights -->
         <div class="copyrights clearfix text-center">
-            <p class="col-lg-12">© Copyright 2014 FC Theme. All Rights Reserved</p>
+            <p class="col-lg-12">2018, Unity League, Барлық құқықтар қоғалған</p>
         </div>
         <!-- End Copyrights -->
 
