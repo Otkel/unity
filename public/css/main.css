@@ -22,6 +22,206 @@
     justify-content: space-between;
     margin-bottom: 5%;
 }
-.back{
+
+#mainn{
+    margin-top:150px;
+}
+
+#smth{
+    background-color: green; width: 88px; margin-right: 5px; margin-bottom: 5px;  text-align: center;
+}
+
+#smth h4{
+    padding: 9%; color: white;
+}
+#smt h5{
+    width: 270px; font-weight:400; padding-top: 8px;
+}
+
+#smt h6{
+    width: 270px;
+}
+#smt2{
+    background-color: grey; width: 88px;  margin-right: 5px; margin-bottom: 5px;    text-align: center;
+}
+
+#smt2 h4{
+    padding: 9%; color: white;
+}
+
+#blocks{
+    margin-bottom: 40px;
+}
+.block1{
+    width: 16px; height: 16px; margin-right: 5px; float: left; background-color: red;
+}
+.block2{
+    width: 16px; height: 16px; margin-right: 5px; float: left; background-color: orange;
+}
+.block3{
+    width: 16px; height: 16px; margin-right: 5px; float: left; background-color: green;
+}
+.block4{
+    width: 16px; height: 16px; margin-right: 5px; float: left; background-color: green;
+}
+.block5{
+    width: 16px; height: 16px; margin-right: 5px; float: left; background-color: green;
+}
+
+#tables{
+    background-color: #F8F9F8;
+    margin-bottom: 30px;
+}
+tr  {
+    border-top:0.5px solid grey;
+    border-bottom:0.5px solid grey;
 
 }
+td{
+    border-right: 0.5px solid grey;
+}
+.date{
+    width: 120px;
+    font-size: 12px;
+    text-align: center;
+}
+.liga{
+    width: 200px;
+}
+.liga h6{
+    margin-left: 10px;
+    color: #1D7EA1;
+}
+
+
+.firstteam {
+    width: 170px;
+}
+.firstteam h6{
+    margin-left: 5px;
+    color: #1D7EA1;
+}
+.secondteam{
+    width: 170px;
+}
+.secondteam h6{
+    margin-left: 5px;
+    color: #1D7EA1;
+}
+.secondteam2{
+    border-right: none;
+    width: 340px;
+}
+.secondteam2 h6{
+    margin-left: 5px;
+    color: #1D7EA1;
+}
+.score{
+    width: 50px;
+    text-align: center;
+}
+.score h5{
+    margin: 5px;
+}
+
+.winlose{
+    width: 120px;
+    text-align: center;
+    border-right: none;
+}
+.winlose h6{
+    color: #00BA16;
+
+}
+
+
+
+.p1{
+    width: 30px;
+}
+.p1 h6{
+    text-align: center;
+}
+.p2{
+    width:  220px;
+    border-right: none;
+}
+.p2 h6{
+    margin-left: 5px;
+    color: #1D7EA1;
+}
+.p3{
+    width: 30px;
+    text-align: center;
+    border-left: none;
+    border-right: none;
+}
+
+/* MAIN */
+03,""
+.results{
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#row{
+    display: flex; justify-content: center;
+}
+
+#team1{
+    width: 250px;
+    background-color:#f8f9f8;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+#team1 img{
+    float: left;
+    padding-right: 10px;}
+
+#score{
+    text-align: center;
+    background-color: #006185;
+    color: white;
+
+}
+#score h3{
+    margin-bottom: 15px;
+}
+
+#team2{
+    background-color: white;
+}
+#score2{
+    text-align: center;
+    background-color: #1d7ea1;
+    color: white;
+
+}
+
+#team2{
+    width: 250px;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+#team2 img{
+    float: left;
+    padding-right: 10px;}
+
+#score2{
+    text-align: center;
+    background-color: #1d7ea1;
+    color: white;
+
+}
+#score2 h3{
+    margin-bottom: 15px;
+}
+
