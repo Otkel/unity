@@ -140,16 +140,18 @@
             <!-- Start Footer-Top -->
             <div class="footer-top clearfix">
                 <div class="widget col-lg-3 col-md-3 col-sm-6">
-                    <h5 class="widget-title">About FC</h5>
+                    <h5 class="widget-title">ЛИГА ЖАЙЛЫ</h5>
                     <p>Lorem ipsum dolor sit amet consete adipisicing elit. Proin nibh augue.</p>
                     <ul class="contact-info custom-list">
-                        <li><i class="fa fa-map-marker"></i><span>10 Milk Street #230 Boston, MA 02108</span></li>
-                        <li><i class="fa fa-phone"></i><span>+1 (123) 456-7890</span></li>
-                        <li><i class="fa fa-envelope"></i><span><a href="mailto:example@example.com">example@example.com</a></span></li>
+                        <li><i class="fa fa-map-marker"></i><span>Almaty, Abylaikhan street 1, 100150</span></li>
+                        <li><i class="fa fa-phone"></i><span>+7 (727) 312 1111</span></li>
+                        <li><i class="fa fa-envelope"></i><span><a href="mailto:example@example.com">info@league.com
+
+</a></span></li>
                     </ul>
                 </div>
                 <div class="widget col-lg-3 col-md-3 col-sm-6">
-                    <h5 class="widget-title">Information</h5>
+                    <h5 class="widget-title">АҚПАРАТТАР</h5>
                     <ul class="custom-list">
                         <li><a href="{{url("")}}">About the Club</a></li>
                         <li><a href="{{url("")}}">Shop</a></li>
@@ -160,7 +162,7 @@
                     </ul>
                 </div>
                 <div class="widget col-lg-3 col-md-3 col-sm-6">
-                    <h5 class="widget-title">Support</h5>
+                    <h5 class="widget-title">АҚПАРАТТАР</h5>
                     <ul class="custom-list">
                         <li><a href="{{url("")}}">Terms and Conditions</a></li>
                         <li><a href="{{url("")}}">Website Accessibility Statement</a></li>
