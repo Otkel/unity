@@ -3,7 +3,7 @@
 
     <div  class="container" >
         <div id="mainn" class="row" >
-            <div class="col-sm-1 "></div>
+            <div class="col-sm-1"></div>
 
             <div class="col-sm-6">
                 <div class="row ">
@@ -18,7 +18,7 @@
 
                             </div>
                             <h5>FC Sdudents - AlmatyBil</h5>
-                            <h6> 31 наурыз, 2018.21:00</h6>
+                            <h6> 31 наурыз, 2018. 21:00</h6>
                             <div id="smt2" class="col-sm-4 " >
                                 <h4  class="text-center">- : -</h4>
                             </div>
