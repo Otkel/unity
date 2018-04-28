@@ -3,7 +3,9 @@
 
     <div  class="container" >
         <div id="mainn" class="row" >
-            <div class="col-sm-1"></div>
+            <div class="col-sm-1">
+
+            </div>
 
             <div class="col-sm-6">
                 <div class="row ">
@@ -33,7 +35,7 @@
                 <h4> Текущая форма</h4>
                 <div>
                     <div class="block1"></div>
-                    <div class="block2" ></div>
+                    <div class="block2"></div>
                     <div class="block3"></div>
                     <div class="block4"></div>
                     <div class="block5"></div>

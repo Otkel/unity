@@ -26,6 +26,12 @@ Route::get('/admin', function () {
     return view('admin');
 })->name('admin');
 
+Route::get('/teaminfo',function () {
+	return view('teaminfo');
+});
+
+
+
 Route::get('/division', "AdminController@addDiv");
 Route::get("/cup","AdminController@addCup");
 Route::get("/tour","AdminController@addTour");
