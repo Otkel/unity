@@ -7,11 +7,14 @@
 
     <title>Unity Football League</title>
 
+
     <!-- Stylesheets -->
+    <link rel="stylesheet" href="{{asset("css/styl.css")}}">
     <link rel="stylesheet" href="{{asset("css/styling.css")}}">
     <link rel="stylesheet" href="{{asset("css/style.css")}}">
     <link rel="stylesheet" href="{{asset("css/owl.carousel.css")}}">
     <link rel="stylesheet" href="{{asset("css/main.css")}}">
+
     <!-- Google Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
