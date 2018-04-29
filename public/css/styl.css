@@ -93,6 +93,10 @@
 .tables2{
     display: grid;justify-content: center; margin-top: 50px; margin-bottom: 50px;
 }
+.tables22 tr, td{
+    border: none;
+}
+
 
 .tbody tr:nth-child(even) {
     background: white  !important;

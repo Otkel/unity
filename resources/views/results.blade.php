@@ -30,7 +30,7 @@
             </div>
         </div>
         <div class="tables2">
-            <table>
+            <table class="tables22">
                 <tbody class="tbody">
                 <tr>
                     <td><img src="public/img/team-upcoming7.png"></td>
