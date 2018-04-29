@@ -33,72 +33,55 @@
             <table>
                 <tbody class="tbody">
                 <tr>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                     <td><span>FC Lorem ipsum</span></td>
                     <td><span>4-2</span></td>
                     <td><span>FC Lorem ipsum</span></td>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                 </tr>
 
                 <tr>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                     <td><span>FC Lorem ipsum</span></td>
                     <td><span>4-2</span></td>
                     <td><span>FC Lorem ipsum</span></td>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                 </tr>
-
-
                 <tr>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                     <td><span>FC Lorem ipsum</span></td>
                     <td><span>4-2</span></td>
                     <td><span>FC Lorem ipsum</span></td>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                 </tr>
-
                 <tr>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                     <td><span>FC Lorem ipsum</span></td>
                     <td><span>4-2</span></td>
                     <td><span>FC Lorem ipsum</span></td>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                 </tr>
-
-
                 <tr>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                     <td><span>FC Lorem ipsum</span></td>
                     <td><span>4-2</span></td>
                     <td><span>FC Lorem ipsum</span></td>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                 </tr>
-
                 <tr>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                     <td><span>FC Lorem ipsum</span></td>
                     <td><span>4-2</span></td>
                     <td><span>FC Lorem ipsum</span></td>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                 </tr>
-
-
                 <tr>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                     <td><span>FC Lorem ipsum</span></td>
                     <td><span>4-2</span></td>
                     <td><span>FC Lorem ipsum</span></td>
-                    <td><img src="img/team4.png"></td>
+                    <td><img src="public/img/team-upcoming7.png"></td>
                 </tr>
-
-                <tr>
-                    <td><img src="img/team4.png"></td>
-                    <td><span>FC Lorem ipsum</span></td>
-                    <td><span>4-2</span></td>
-                    <td><span>FC Lorem ipsum</span></td>
-                    <td><img src="img/team4.png"></td>
-                </tr>
-
 
 
 
