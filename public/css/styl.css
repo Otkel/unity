@@ -22,7 +22,7 @@
     justify-content: space-between;
     margin-bottom: 5%;
 }
-.dropbtnn {
+.dropbtn {
     width: 210px;
     background-color: #006185;
     color: white;
@@ -33,7 +33,7 @@
     border: none;
     cursor: pointer;
 }
-.dropbtnn >h6{
+.dropbtn >h6{
     color: white;
 }
 
@@ -56,11 +56,11 @@
 
 .dropdown-content a:hover {background-color: #1D7EA1;}
 
-.dropdownn:hover .dropdown-content {
+.dropdown:hover .dropdown-content {
     display: block;
 }
 
-.dropdownn:hover .dropbtn {
+.dropdown:hover .dropbtn {
     background-color: #1D7EA1;
 
 }
@@ -133,8 +133,6 @@
     width: 250px;
 
     border: none;
-
-
 }
 
 
