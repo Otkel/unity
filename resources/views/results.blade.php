@@ -11,7 +11,7 @@
 
             <div class="row top">
                 <div class="col-sm-4 dropdown">
-                    <button class="dropbtn"><h6>Spring cup 2018</h6></button>
+                    <button class="dropbtnn"><h6>Spring cup 2018</h6></button>
                     <div class="dropdown-content">
                         <a href="#">Link 1</a>
                         <a href="#">Link 2</a>
@@ -20,7 +20,7 @@
                 </div>
                 <div class="col-sm-3"></div>
                 <div class="col-sm-4 dropdown">
-                    <button class="dropbtn"><h6>4 тур</h6></button>
+                    <button class="dropbtnn"><h6>4 тур</h6></button>
                     <div class="dropdown-content">
                         <a href="#">Link 1</a>
                         <a href="#">Link 2</a>
